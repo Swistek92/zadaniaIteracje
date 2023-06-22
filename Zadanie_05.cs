@@ -9,7 +9,7 @@ namespace zad5
         {
             static void Main()
             {
-                int x = GetInput("Podaj liczbę x: ");
+                int x = GetInput("Podaj liczbę  x: ");
                 int n = GetInput("Podaj liczbę n: ");
                 int result = Power(x, n);
 
